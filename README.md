@@ -30,23 +30,27 @@ The Notes App is a robust and user-friendly application built to streamline the 
 Here are some screenshots showcasing the main features of the Notes App:  
 
 ### **1. Authentication & Homepage**  
-![Login, Sign Up, and Homepage](https://raw.githubusercontent.com/moaz-abdeltawab92/Notes-App/master/1.png)  
 - **Login and Sign-Up Pages**: Secure user authentication for accessing personal notes.  
 - **Homepage**: Displays all notes in an organized and visually clean layout.  
 
-### **2. Folder Management**  
+![Login, Sign Up, and Homepage](https://raw.githubusercontent.com/moaz-abdeltawab92/Notes-App/master/1.png)  
 
-![Manage Notes](https://raw.githubusercontent.com/moaz-abdeltawab92/Notes-App/master/2.png)  
+
+### **2. Folder Management**  
 - **Edit Folder Names**: Modify folder titles to keep your notes organized.  
 - **Delete Folders**: Remove unwanted folders.  
 - **Add a New Note**: Quickly create new notes with ease.  
 
-### **3. Note Actions**  
+![Manage Notes](https://raw.githubusercontent.com/moaz-abdeltawab92/Notes-App/master/2.png)  
 
-![Note Actions](https://raw.githubusercontent.com/moaz-abdeltawab92/Notes-App/master/3.png)  
+
+### **3. Note Actions**  
 - **View Notes**: Easily browse and access your saved notes.  
 - **Edit Notes**: Update the content of existing notes effortlessly.  
-- **Delete Notes**: Remove notes you no longer need with a simple action.  
+- **Delete Notes**: Remove notes you no longer need with a simple action. 
+
+![Note Actions](https://raw.githubusercontent.com/moaz-abdeltawab92/Notes-App/master/3.png)  
+ 
 
 
 
